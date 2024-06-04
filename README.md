@@ -1,4 +1,6 @@
 # CO_350-oat-traits
+[![DOI](https://zenodo.org/badge/247817327.svg)](https://zenodo.org/doi/10.5281/zenodo.11473883)
+
 Oat trait dictionary developed by Crop Ontology, T3 and PepsiCO
 
 You can request new variables or an update to an exisitng one here: http://trait-requests.planteome.org/. 
